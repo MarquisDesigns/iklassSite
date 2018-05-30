@@ -1,0 +1,73 @@
+/* #Entry Meta */
+.post__cats a,
+.sticky__label {
+	color: $invert_link_color;
+	background-color: $regular_accent_color_1;
+}
+.post__cats a:hover {
+	color: $invert_link_color;
+	background-color: $regular_accent_color_2;
+}
+.entry-meta .material-icons,
+.post__tags .material-icons,
+.entry-meta .fa,
+.post__tags .fa {
+	color: $regular_text_color;
+}
+.entry-meta .material-icons:hover,
+.post__tags .material-icons:hover,
+.entry-meta .fa:hover,
+.post__tags .fa:hover {
+	color: $regular_link_color;
+}
+.posted-by,
+.posted-by__author,
+.post-featured-content {
+	color: $regular_text_color;
+}
+.post__date a, .post__comments a {
+	color: $regular_text_color;
+}
+.post__date a:hover, .post__comments a:hover {
+	color: $regular_link_color;
+}
+.post__tags a {
+	color: $regular_text_color;
+}
+.post__tags a:hover {
+	color: $regular_link_color;
+}
+
+.invert .post__cats a:hover {
+	color: $regular_link_color;
+	background-color: $invert_accent_color_1;
+}
+
+/* #Post Format */
+.format-quote .post-quote {
+	color: $invert_text_color;
+}
+.post-format-link {
+	color: $invert_text_color;
+	background-color: $regular_link_color;
+}
+.post-format-link:hover {
+	color: $regular_link_color;
+	background-color: $invert_text_color;
+}
+
+/* #Author Bio */
+.post-author__holder {
+
+}
+.post-author__title a:hover {
+	color: $invert_link_hover_color;
+}
+
+/* #Comment Reply Link */
+#cancel-comment-reply-link {
+	color: $regular_accent_color_1;
+}
+#cancel-comment-reply-link:hover {
+	color: $regular_accent_color_2;
+}
