@@ -5494,6 +5494,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=12</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" background_image="http://iklassfoundation.org/wp-content/uploads/2016/06/image19.jpg" transparent_background="off" background_color="#1a1a1a" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="130px|35%|138px|" custom_padding_last_edited="on|desktop" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_padding_tablet="60px|0px|60px|" custom_margin="-140px|||" custom_margin_phone="-50px|||" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h1><span style="color: #ffffff;">Programs</span></h1>
 <h4><span style="color: #ffffff;">We've got a whole range of issues that our team is constantly working on!</span></h4>
@@ -5536,6 +5537,50 @@ Whether we are talking about the income inequality and unequal pay, the lack of 
 
 [/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image25.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="right" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||70px|" custom_margin_tablet="||50px|" custom_margin_phone="||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ff8ed6" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" module_class="tm_pb_section_custom"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Upholding the Women's Rights Across the Globe" button_url="http://iklassfoundation.org/contacts" url_new_window="off" button_text="CONTACT US" use_background_color="off" background_color="#0971f2" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_padding="140px||158px|" custom_padding_tablet="100px||100px|" custom_padding_phone="60px||60px|" custom_padding_last_edited="on|desktop" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" header_text_color="#ffffff"]
 <h5 style="text-align: left;"><span style="color: #ffffff;">become a part of the solution</span></h5>
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" background_image="http://iklassfoundation.org/wp-content/uploads/2016/06/image19.jpg" transparent_background="off" background_color="#1a1a1a" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="130px|35%|138px|" custom_padding_last_edited="on|desktop" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_padding_tablet="60px|0px|60px|" custom_margin="-140px|||" custom_margin_phone="-50px|||" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h1><span style="color: #ffffff;">Programs</span></h1>
+<h4><span style="color: #ffffff;">We've got a whole range of issues that our team is constantly working on!</span></h4>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" custom_padding="160px|||" custom_padding_last_edited="on|phone" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" custom_padding_tablet="100px|||" custom_padding_phone="60px|||"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image20.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Equal Pay Program</h2>
+<h5></h5>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female.
+
+Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="84px||90px|" custom_margin_tablet="30px||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Reproductive Rights</h2>
+For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men.
+
+We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
+
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image21.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="right" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="84px||90px|" custom_margin_tablet="30px||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image22.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>50/50 Congress Goal</h2>
+When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+The facts will tell us, that currently, just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.
+
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="84px||90px|" custom_margin_tablet="30px||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Educational Programs</h2>
+Whenever the gender equality is concerned, we can probably all agree that it all starts with our youth - the girls.
+
+We believe that young girls all across the globe deserve a great education and an equal shot! This means that we put the educational programs front and center of our women's rights centric agenda here!
+
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image23.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="right" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="84px||90px|" custom_margin_tablet="30px||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image24.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Career Opportunities</h2>
+The issues with an unequal pay for males and females, educational hurdles and so many other problems in our country make some working fields harder for women to succeed in than in the others...
+
+Our mission as we see it is to make sure that there's an equal opportunity for both men and women, whatever their field of expertise, work or aspiration is!
+
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="84px||90px|" custom_margin_tablet="30px||30px|" custom_margin_last_edited="on|tablet"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Global Women's Rights</h2>
+All the issues that we've been pursuing to fix here at home, in the US, are also our goals and objectives when we talk about the global protection of women's rights.
+
+Whether we are talking about the income inequality and unequal pay, the lack of federal and state level representation of women for elected offices, on-campus sexual assaults etc - we are a part of the solution!
+
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image25.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="right" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||70px|" custom_margin_tablet="||50px|" custom_margin_phone="||30px|" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ff8ed6" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" module_class="tm_pb_section_custom"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Upholding the Women's Rights Across the Globe" button_url="http://iklassfoundation.org/contacts" url_new_window="off" button_text="CONTACT US" use_background_color="off" background_color="#0971f2" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_padding="140px||158px|" custom_padding_tablet="100px||100px|" custom_padding_phone="60px||60px|" custom_padding_last_edited="on|desktop" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" header_text_color="#ffffff"]
+<h5 style="text-align: left;"><span style="color: #ffffff;">become a part of the solution</span></h5>
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_cta][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
@@ -5662,6 +5707,7 @@ Whether we are talking about the income inequality and unequal pay, the lack of 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=15</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="row" make_fullwidth="on" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" column_padding_mobile="on" parallax_1="off" parallax_method_1="off" custom_margin_last_edited="off|desktop" custom_margin="-140px|||"][tm_pb_column type="4_4"][tm_pb_map admin_label="Map" zoom_level="15" address_lat="40.678791690615256" address_lng="-73.94031697669068" map_style="apple-maps-esque" mouse_wheel="off" icon_url="http://iklassfoundation.org/wp-content/uploads/2016/06/marker.png" address="Бруклин, Нью-Йорк, США"]
 
 <p>[tm_pb_map_pin pin_address="Brooklyn, NY, USA" pin_address_lat="40.6781784" pin_address_lng="-73.9441579"]</p>
@@ -5689,6 +5735,35 @@ Whether we are talking about the income inequality and unequal pay, the lack of 
 <p>
 [tm_pb_contact_field field_type="input" field_id="Name" required_mark="on" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Full Name"] [/tm_pb_contact_field][tm_pb_contact_field field_type="email" field_id="Email" required_mark="on" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="E-mail"] [/tm_pb_contact_field][tm_pb_contact_field field_type="input" field_id="Company" required_mark="off" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Company"] [/tm_pb_contact_field][tm_pb_contact_field field_type="input" field_id="Subject" required_mark="off" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Subject"] [/tm_pb_contact_field][tm_pb_contact_field field_type="text" field_id="Message" required_mark="on" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Your Message"] [/tm_pb_contact_field]</p>
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="row" make_fullwidth="on" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" column_padding_mobile="on" parallax_1="off" parallax_method_1="off" custom_margin_last_edited="off|desktop" custom_margin="-140px|||"][tm_pb_column type="4_4"][tm_pb_map admin_label="Map" zoom_level="15" address_lat="40.678791690615256" address_lng="-73.94031697669068" map_style="apple-maps-esque" mouse_wheel="off" icon_url="http://iklassfoundation.org/wp-content/uploads/2016/06/marker.png" address="Бруклин, Нью-Йорк, США"]
+
+<p>[tm_pb_map_pin pin_address="Brooklyn, NY, USA" pin_address_lat="40.6781784" pin_address_lng="-73.9441579"]</p>
+<p><strong>Address:</strong> 11559 Ventura Boulevard, Studio City, CA 91604<br><strong>Phone:</strong> 555.748.6051<br><strong>Fax:</strong> 555.748.6051</p>
+<p>[/tm_pb_map_pin]</p>
+
+[/tm_pb_map][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||140px|" custom_margin_tablet="||60px|" custom_margin_phone="||30px|" custom_margin_last_edited="on|phone"]
+
+
+
+[/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="||170px|" custom_padding_tablet="||60px|" custom_padding_last_edited="on|desktop" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" column_padding_mobile="on"][tm_pb_column type="1_3"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" text_text_color="#1d1d1d"]
+
+<h2><span style="color: #1d1d1d;">Contacts</span></h2>
+<p><span style="color: #1d1d1d;"><strong>Address:</strong> 11559 Ventura Boulevard, Studio</span><br /><span style="color: #1d1d1d;"> City, CA 91604</span></p>
+<p><span style="color: #1d1d1d;"><strong>Phone:</strong> 555.748.6051</span></p>
+<p><span style="color: #1d1d1d;"><strong>Fax:</strong> 555.748.6051</span></p>
+<p><span style="color: #1d1d1d;"><strong>E-mail:</strong> </span><a href="mailto:fiftyfiftyrights@demolink.org">FiftyFiftyRights@demolink.org</a></p>
+
+[/tm_pb_text][tm_pb_social_media_follow admin_label="Social Media Follow" link_shape="rounded_rectangle" url_new_window="off" follow_button="off"]
+
+[tm_pb_social_media_follow_network social_network="facebook" social_icon="f09a" url="https://www.facebook.com/TemplateMonster/" skype_action="call" color="#888888" bg_color="#ffba00" hover_bg_color="#252525"] facebook [/tm_pb_social_media_follow_network][tm_pb_social_media_follow_network social_network="twitter" social_icon="f099" url="https://twitter.com/templatemonster" skype_action="call" color="#888888"] twitter [/tm_pb_social_media_follow_network][tm_pb_social_media_follow_network social_network="plus.google" social_icon="f0d5" url="https://plus.google.com/+TemplateMonster" skype_action="call" color="#888888" bg_color="#0971f2" hover_bg_color="#252525"] plus.google [/tm_pb_social_media_follow_network]
+
+[/tm_pb_social_media_follow][/tm_pb_column][tm_pb_column type="2_3"][tm_pb_contact_form admin_label="Contact Form" captcha="off" use_redirect="off" input_border_radius="0" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="off" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" title="Send us a message" submit_text="send" button_text_size="13px" button_border_radius_hover="0" button_border_radius="0" saved_tabs="all"]
+
+<p>
+[tm_pb_contact_field field_type="input" field_id="Name" required_mark="on" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Full Name"] [/tm_pb_contact_field][tm_pb_contact_field field_type="email" field_id="Email" required_mark="on" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="E-mail"] [/tm_pb_contact_field][tm_pb_contact_field field_type="input" field_id="Company" required_mark="off" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Company"] [/tm_pb_contact_field][tm_pb_contact_field field_type="input" field_id="Subject" required_mark="off" fullwidth_field="off" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Subject"] [/tm_pb_contact_field][tm_pb_contact_field field_type="text" field_id="Message" required_mark="on" select_multiple="on" select_first_blank="on" show_label="on" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Your Message"] [/tm_pb_contact_field]</p>
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_contact_form][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
@@ -5815,6 +5890,7 @@ Whether we are talking about the income inequality and unequal pay, the lack of 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=51</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Kappa League" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="50px|||"] [/tm_pb_divider][tm_pb_video admin_label="Video" src="https://www.youtube.com/watch?v=eRLJscAlk1M"] [/tm_pb_video][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2>Kappa League</h2>
 [/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
@@ -5867,6 +5943,60 @@ The officers and members of the Kappa League through organization oriented activ
 <p style="text-align: center;">Physical Fitness, Sex Education, Drug Education, and Health and Safety</p>
 [/tm_pb_accordion_item]
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Kappa League" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="50px|||"] [/tm_pb_divider][tm_pb_video admin_label="Video" src="https://www.youtube.com/watch?v=eRLJscAlk1M"] [/tm_pb_video][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Kappa League</h2>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+
+Under the chairmanship of Mel Davis, the Los Angeles Alumni Chapter’s Social Action Program took the form of training activity for young men of the Alain Leroy Locke High School. Called the Kappa Instructional Leadership League, it was designed to help young men grow, receive, and develop their leadership talents in every phase of human endeavor. It provided both challenging and rewarding experiences, which richly enhanced their lives. Membership was open to male students from the tenth through the twelfth grades. The fraternity sought to help these young men to achieve worthy goals for themselves and make constructive contributions to their community when leadership roles become the responsibility.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+
+Kappa League was founded on Thursday, February 12, 1969, by the Los Angeles Alumni Chapter of Kappa Alpha Psi Fraternity, Inc., at Alain LeRoy Locke High School. Kappa League was adopted by the Grand Chapter of Kappa Alpha Psi Fraternity, Inc. at the 56th Grand Chapter which was held August 12-15, 1970. The founders of the Kappa Instructional Leadership League were Mel L. Davis an Elder Watson Diggs Awardee and Edgar H. Bishop.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+
+Kappa League is a program for the educational, occupational and social guidance of male students in grades 6th-12th.
+
+The Alabaster - Pelham Alumni Chapter of Kappa Alpha Psi Fraternity, Inc. and the IKLASS Foundation are proud to offer the Kappa Leadership League.  Designed to aid young men to grow and develop their leadership talents in every phase of human endeavor, this year-round program is designed for a distinguished group of debonair young gentlemen to begin a journey of academic excellence, commitment to service and broadening their horizons.  Our goal is to acquaint our young men with opportunities to develop their academic, civic, social, and leadership skills.
+
+The officers and members of the Kappa League through organization oriented activities perform projects that expose them to planning, professional networks, various structured workshops and seminars, and leadership characteristics designed to raise their aspiration levels.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="100px||86px|" custom_margin_last_edited="on|desktop" custom_margin_tablet="60px||60px|" saved_tabs="all"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Activities and programs around the following 5 phases:</h2>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_accordion admin_label="Accordion" use_border_color="off" border_color="#ffffff" border_style="solid"] [tm_pb_accordion_item title="Self-Identity "]
+
+&nbsp;
+<p style="text-align: center;">Discipline, Assurance, Awareness, and Appearance</p>
+[/tm_pb_accordion_item][tm_pb_accordion_item title="Training "]
+
+&nbsp;
+
+&nbsp;
+<p style="text-align: center;">Academic, Career-Choice, Preparation, and Organization</p>
+[/tm_pb_accordion_item][tm_pb_accordion_item title="Competition"]
+
+&nbsp;
+<p style="text-align: center;">Politics, Career Advancement, and Sports</p>
+[/tm_pb_accordion_item]
+
+[/tm_pb_accordion][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_accordion admin_label="Accordion" use_border_color="off" border_color="#ffffff" border_style="solid"]
+
+[tm_pb_accordion_item title="Social Services"]
+
+&nbsp;
+<p style="text-align: center;">Communication, Entertainment, Human Interaction</p>
+[/tm_pb_accordion_item][tm_pb_accordion_item title="Community Service"]
+
+&nbsp;
+<p style="text-align: center;">Religion, The Arts, and Etiquette/Manners</p>
+[/tm_pb_accordion_item][tm_pb_accordion_item title="Health Education"]
+
+&nbsp;
+<p style="text-align: center;">Physical Fitness, Sex Education, Drug Education, and Health and Safety</p>
+[/tm_pb_accordion_item]
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_accordion][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
@@ -5961,6 +6091,7 @@ The officers and members of the Kappa League through organization oriented activ
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=62</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="on" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin="-140px|||" custom_margin_last_edited="on|desktop"][tm_pb_column type="4_4"][tm_pb_slider admin_label="Slider" show_arrows="off" show_pagination="on" auto="on" auto_ignore_hover="off" parallax="on" parallax_method="off" remove_inner_shadow="on" background_position="default" background_size="default" hide_content_on_mobile="off" hide_cta_on_mobile="off" show_image_video_mobile="off" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" disabled="off" disabled_on="off||" header_text_color="#ffffff" body_text_color="#ffffff" button_text_size="14" button_text_color="#ffffff" module_class="invert"] [tm_pb_slide background_image="http://iklassfoundation.org/wp-content/uploads/2018/05/group.jpg" background_position="default" background_size="initial" background_color="#ffffff" use_bg_overlay="on" use_text_overlay="off" alignment="center" allow_player_pause="off" text_border_radius="3" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" bg_overlay_color="rgba(0,0,0,0.48)" custom_css_slide_description="max-width:930px; margin:0 auto;"]
 
 &nbsp;
@@ -6006,6 +6137,53 @@ The purpose of the IKLASS Foundation is to make a difference in the lives of our
 
 &nbsp;
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="on" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin="-140px|||" custom_margin_last_edited="on|desktop"][tm_pb_column type="4_4"][tm_pb_slider admin_label="Slider" show_arrows="off" show_pagination="on" auto="on" auto_ignore_hover="off" parallax="on" parallax_method="off" remove_inner_shadow="on" background_position="default" background_size="default" hide_content_on_mobile="off" hide_cta_on_mobile="off" show_image_video_mobile="off" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" disabled="off" disabled_on="off||" header_text_color="#ffffff" body_text_color="#ffffff" button_text_size="14" button_text_color="#ffffff" module_class="invert"] [tm_pb_slide background_image="http://iklassfoundation.org/wp-content/uploads/2018/05/group.jpg" background_position="default" background_size="initial" background_color="#ffffff" use_bg_overlay="on" use_text_overlay="off" alignment="center" allow_player_pause="off" text_border_radius="3" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" bg_overlay_color="rgba(0,0,0,0.48)" custom_css_slide_description="max-width:930px; margin:0 auto;"]
+
+&nbsp;
+
+&nbsp;
+<h1 style="text-align: center;">Institute of Knowledge</h1>
+&nbsp;
+
+[/tm_pb_slide][tm_pb_slide background_image="http://iklassfoundation.org/wp-content/uploads/2018/05/student.jpg" background_position="default" background_size="initial" background_color="#ffffff" use_bg_overlay="on" use_text_overlay="off" alignment="center" allow_player_pause="off" text_border_radius="3" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" bg_overlay_color="rgba(0,0,0,0.48)" custom_css_slide_description="max-width:930px; margin:0 auto;"]
+
+&nbsp;
+<h1 style="text-align: center;">Institute of Leadership</h1>
+[/tm_pb_slide][tm_pb_slide background_image="http://iklassfoundation.org/wp-content/uploads/2018/05/suit.jpg" background_position="default" background_size="initial" background_color="#ffffff" use_bg_overlay="on" use_text_overlay="off" alignment="center" allow_player_pause="off" text_border_radius="3" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" bg_overlay_color="rgba(0,0,0,0.48)" custom_css_slide_description="max-width:930px; margin:0 auto;"]
+
+&nbsp;
+<h1 style="text-align: center;">Institute of Achievement</h1>
+[/tm_pb_slide][tm_pb_slide background_image="http://iklassfoundation.org/wp-content/uploads/2018/05/in-line.jpg" background_position="default" background_size="initial" background_color="#ffffff" use_bg_overlay="off" use_text_overlay="off" alignment="center" allow_player_pause="off" text_border_radius="3" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on"]
+
+&nbsp;
+<h1 style="text-align: center;">Institute of Stewardship</h1>
+<h1 style="text-align: center;">&amp;</h1>
+<h1 style="text-align: center;">Success</h1>
+[/tm_pb_slide] [/tm_pb_slider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2 style="text-align: center;">IKLASS</h2>
+Institute of Knowledge, Leadership, Achievement, Stewardship, and Success) Foundation was established in 2018 to serve as the philanthropic and charitable arm of the Alabaster – Pelham (AL) Alumni Chapter of Kappa Alpha Psi Fraternity, Inc.  This Foundation is organized exclusively for charitable, scientific, literary and educational purposes within the meaning of section 501(C)(3) of the Internal Revenue Code.  Incorporated by the State of Alabama, it is a separate non-profit, tax exempt, publicly supported organization providing scholarships, leadership training, and educational opportunities to students in the Greater Birmingham-Hoover Metropolitan Area.
+<h2 style="text-align: center;">TO OUR SPONSORS:</h2>
+<p style="text-align: center;">Thank you for your continued support of The IKLASS Foundation.  We could not do what we do without you.</p>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#a80f05" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="on" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" module_class="invert" custom_padding="30px||26px|" custom_padding_tablet="30px||30px|" custom_padding_last_edited="on|phone"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Do you want to make an immediate impact? Consider donation to our scholarship foundation today!" button_url="http://iklassfoundation.org/contacts/" url_new_window="off" button_text="contact us" use_background_color="off" background_color="#ff8ed6" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"]
+
+&nbsp;
+
+[/tm_pb_cta][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" disabled="off" disabled_on="on|on|" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row"][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/redshirt.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="bottom" sticky="off" align="left" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="3_4"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||0px|" custom_margin_target="h2"]
+<h2>Our History</h2>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" text_font_size="18" text_font="|on|||" custom_margin="40px||15px|" custom_margin_target="p" text_line_height="1.8em"]
+
+The Foundation strives to serve as a catalyst of change by providing scholarships, educational resources, leadership training, grants, civic improvement programs, and health &amp; wellness initiatives to students in the Greater Birmingham-Hoover Metropolitan Area!
+
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" text_font_size="17" custom_margin="0px||48px|" custom_margin_target="p"]
+
+The purpose of the IKLASS Foundation is to make a difference in the lives of our youth and the larger community we serve.  The IKLASS Foundation understands that many youth face challenges achieving personal success and reaching their full potential.
+
+[/tm_pb_text][tm_pb_button admin_label="Button" button_url="http://iklassfoundation.org/about/" url_new_window="off" button_text="Read more about us" button_alignment="left" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"]
+
+&nbsp;
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_button][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
@@ -6128,6 +6306,7 @@ The purpose of the IKLASS Foundation is to make a difference in the lives of our
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=847</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="section" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Kappa Alpha Psi Fraternity" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||62px|"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ffffff" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" background_color="#ffffff" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" parallax_3="off" parallax_method_3="off" column_padding_mobile="on"][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/nhvv.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/jyju.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-2.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="78px||71px|" custom_margin_last_edited="on|desktop" custom_margin_tablet="60px||60px|"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2 style="text-align: center;">Guide Right</h2>
 <p style="text-align: center;">The national service program of Kappa Alpha Psi Fraternity, Inc. is called Guide Right.  From its inception in 1922, the mission of the Guide Right program is to provide guidance in assisting high school students to choose meaningful careers consistent with the theme of achievement.  The program has evolved to include scholarships to underserved and talented students, and to inform, advise, and counsel young people in the professions and career options before their senior year in high school. Guide Right is a program of the educational and occupational guidance of youth, primarily inspirational and informative in character. The purposes of the Guide Right Service Program is to place the training experience and friendly interest of successful men at the disposal of youth needing inspiration and counsel regarding their choice of a life’s career, and to arouse the interest of the entire community in the problems of youth as they seek to realize lives of usefulness.   The Guide Right program encompasses scholarship opportunities, a tutorial program and the Kappa Leadership Development League.</p>
@@ -6140,6 +6319,20 @@ The purpose of the IKLASS Foundation is to make a difference in the lives of our
  	<li>To provide unique opportunities for less fortunate youths to experience a respite from the drudgery of the streets, through sponsored entertainment and cultural enrichment.</li>
  	<li>To inform youth of the values of higher education, of assistance available for continued educational pursuits, scholarships, loans, professional counseling, fellowships and to explore various occupational and professional opportunities, and of the current labor demands and the trends on the (1) effect of these demands and trends on the labor market, supply rewards, etc. and (2) requirements for obtaining employment, i.e. personal, scholastic, economic.</li>
 </ul>
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="section" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Kappa Alpha Psi Fraternity" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||62px|"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ffffff" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" background_color="#ffffff" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" parallax_3="off" parallax_method_3="off" column_padding_mobile="on"][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/nhvv.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/jyju.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-2.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="78px||71px|" custom_margin_last_edited="on|desktop" custom_margin_tablet="60px||60px|"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2 style="text-align: center;">Guide Right</h2>
+<p style="text-align: center;">The national service program of Kappa Alpha Psi Fraternity, Inc. is called Guide Right.  From its inception in 1922, the mission of the Guide Right program is to provide guidance in assisting high school students to choose meaningful careers consistent with the theme of achievement.  The program has evolved to include scholarships to underserved and talented students, and to inform, advise, and counsel young people in the professions and career options before their senior year in high school. Guide Right is a program of the educational and occupational guidance of youth, primarily inspirational and informative in character. The purposes of the Guide Right Service Program is to place the training experience and friendly interest of successful men at the disposal of youth needing inspiration and counsel regarding their choice of a life’s career, and to arouse the interest of the entire community in the problems of youth as they seek to realize lives of usefulness.   The Guide Right program encompasses scholarship opportunities, a tutorial program and the Kappa Leadership Development League.</p>
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||62px|"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4>The goals and objectives of the Guide Right program are summarized as follows:</h4>
+<ul>
+ 	<li>To help youth, especially those of high school age, in their selection of courses leading to vocations compatible with their aptitudes, interests, and personalities.</li>
+ 	<li>To assist students, while they are training, to get started in employment and to progress successfully in their chosen fields.</li>
+ 	<li>To assist parents in the handling of their children by giving them opportunities to talk over their problems with those who know and are successful in their chosen vocations.</li>
+ 	<li>To provide unique opportunities for less fortunate youths to experience a respite from the drudgery of the streets, through sponsored entertainment and cultural enrichment.</li>
+ 	<li>To inform youth of the values of higher education, of assistance available for continued educational pursuits, scholarships, loans, professional counseling, fellowships and to explore various occupational and professional opportunities, and of the current labor demands and the trends on the (1) effect of these demands and trends on the labor market, supply rewards, etc. and (2) requirements for obtaining employment, i.e. personal, scholastic, economic.</li>
+</ul>
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||62px|"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"] Led by Brother Dr. Charles Woods, Brother Walter Solomon Jr., and Brother Robert Stevenson, our Guide Right Program has a three-stage induction process, and high school males (9th-12th) are encouraged to join. For more information and an application, please email us, and we will gladly reply. [/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" height="20" divider_style="solid" /][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>847</wp:post_id>
@@ -6470,6 +6663,7 @@ The purpose of the IKLASS Foundation is to make a difference in the lives of our
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=2</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
 ...or something like this:
@@ -6480,6 +6674,18 @@ As a new WordPress user, you should go to <a href="http://iklassfoundation.org/w
 
 &nbsp;
 
+=======
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
+...or something like this:
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+As a new WordPress user, you should go to <a href="http://iklassfoundation.org/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+
+&nbsp;
+
+&nbsp;
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2405</wp:post_id>
@@ -6538,6 +6744,7 @@ As a new WordPress user, you should go to <a href="http://iklassfoundation.org/w
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=8</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call to Action" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="center" body_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" title="More About IKLASS Foundation" header_text_color="#ffffff"] [/tm_pb_cta][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="section"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="138px|||" custom_padding_tablet="80px|||" custom_padding_phone="30px|||" custom_padding_last_edited="on|phone" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-1.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="-80px||-80px|" custom_margin_last_edited="on|desktop"] [/tm_pb_image][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" height="75" divider_style="solid"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||25px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid" max_width="550px"]
 <h4 style="text-align: center;">Strong Leadership</h4>
 The IKLASS (Institute of Knowledge, Leadership, Achievement, Stewardship, and Success) Foundation’s major goal is to foster critical skills and positive personal choice decisions by strengthening youth who face challenges to achieving personal success and in reaching their full promise to becoming contributing members of society. The purpose of the IKLASS Foundation is to make a difference in the lives of our youth and the larger community we serve.
@@ -6580,6 +6787,50 @@ The IKLASS Foundation has an active and current 501(c)(3) status.  Therefore al
 <p style="text-align: center;">Robert Stevenson</p>
 <p style="text-align: center;">L. Dale Thornton, Jr.</p>
 <p style="text-align: center;">Dr. Charles Woods</p>
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call to Action" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="center" body_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" title="More About IKLASS Foundation" header_text_color="#ffffff"] [/tm_pb_cta][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="section"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="138px|||" custom_padding_tablet="80px|||" custom_padding_phone="30px|||" custom_padding_last_edited="on|phone" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-1.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="-80px||-80px|" custom_margin_last_edited="on|desktop"] [/tm_pb_image][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" height="75" divider_style="solid"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||25px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid" max_width="550px"]
+<h4 style="text-align: center;">Strong Leadership</h4>
+The IKLASS (Institute of Knowledge, Leadership, Achievement, Stewardship, and Success) Foundation’s major goal is to foster critical skills and positive personal choice decisions by strengthening youth who face challenges to achieving personal success and in reaching their full promise to becoming contributing members of society. The purpose of the IKLASS Foundation is to make a difference in the lives of our youth and the larger community we serve.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||40px|" custom_margin_last_edited="on|phone" custom_margin_tablet="||25px|"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid" max_width="550px"]
+<h4 style="text-align: center;">Support the Community</h4>
+The Foundation supports the mentoring efforts of the Alabaster - Pelham Alumni Chapter's GUIDE RIGHT PROGRAM and Kappa League that award and help students manifest the dream of attending college, and the Foundation desires to see every student achieve in every field of human endeavor.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||25px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||25px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid" max_width="550px"]
+<h4 style="text-align: center;">Empowering the Future</h4>
+The IKLASS Foundation understands that many youth face challenges achieving personal success and reaching their full potential.  Therefore, equipping them with critical thinking skills and the ability to make positive personal choices will aide them in being contributing members of society.  The Foundation strives to serve as a catalyst of change by providing scholarships, educational resources, leadership training, grants, civic improvement programs and health/wellness initiatives to students in the Greater Birmingham-Hoover Metropolitan Area.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||40px|" custom_margin_last_edited="on|phone" custom_margin_tablet="||25px|"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid" max_width="550px"]
+<h4 style="text-align: center;">Solving the Challenges!</h4>
+The IKLASS Foundation has an active and current 501(c)(3) status.  Therefore all donations and support are tax deductible.  Please contact us for information on our programs, volunteer opportunities, in kind contributions or financial support.
+
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||25px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" height="10" divider_style="solid"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="center" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2 style="text-align: center;">Meet the Team</h2>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_3"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">President</h4>
+<p style="text-align: center;">Walter Solomon</p>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">Vice President</h4>
+<p style="text-align: center;">Dwight Coleman</p>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">Secretary</h4>
+<p style="text-align: center;">John Stubbs</p>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">Assistant Secretary</h4>
+<p style="text-align: center;">Jason B. Long</p>
+[/tm_pb_text][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">Treasurer</h4>
+<p style="text-align: center;">Ezra Shine</p>
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/future.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="left" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||20px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="fade_in" sticky="off" align="left" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_3"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4 style="text-align: center;">Members</h4>
+<p style="text-align: center;">Clifford Hill</p>
+<p style="text-align: center;">Courtney Lassiter</p>
+<p style="text-align: center;">Alberto Reid</p>
+<p style="text-align: center;">Charles Trey Stallworth</p>
+<p style="text-align: center;">Robert Stevenson</p>
+<p style="text-align: center;">L. Dale Thornton, Jr.</p>
+<p style="text-align: center;">Dr. Charles Woods</p>
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_text][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2406</wp:post_id>
@@ -6702,6 +6953,7 @@ The IKLASS Foundation has an active and current 501(c)(3) status.  Therefore al
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=10</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Get Involved!" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" height="24"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" background_color="#ffffff" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" parallax_3="off" parallax_method_3="off" parallax_4="off" parallax_method_4="off" column_padding_mobile="on"][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/dg.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/group.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/sery.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||25px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-1.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="10px|||"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/download.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/jug.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/vbghf.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-3.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" height="10"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2 style="text-align: center;">Kappa League Requirements:</h2>
 <ol>
@@ -6720,6 +6972,26 @@ The Alabaster – Pelham Alumni Chapter of Kappa Alpha Psi, Inc. is proud to spo
 
 All scholarship applications are due by May 1st, 2018.
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Get Involved!" url_new_window="off" use_background_color="on" background_color="#991500" text_orientation="left" header_text_color="#ffffff" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0"] [/tm_pb_cta][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" height="24"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" background_color="#ffffff" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" parallax_3="off" parallax_method_3="off" parallax_4="off" parallax_method_4="off" column_padding_mobile="on"][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/dg.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/group.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/sery.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||25px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-1.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="10px|||"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/download.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/jug.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_4"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/vbghf.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||15px|"] [/tm_pb_image][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2018/05/images-3.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="on" align="center" force_fullwidth="on" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" height="10"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2 style="text-align: center;">Kappa League Requirements:</h2>
+<ol>
+ 	<li>Must be enrolled at an area school in the Greater Birmingham-Hoover Metropolitan Area (Bibb County, Blount County, Chilton County, Jefferson County, St. Clair County, Shelby County, and Walker County) or an area private/parochial school.</li>
+ 	<li>Must have and maintain a minimum 2.5 Grade Point Average</li>
+ 	<li>Must fully complete Kappa League Application, have parental/guardian permission (signature on all applicable forms), and sit for personal interview</li>
+ 	<li>Must understand and sign Student Code of Conduct</li>
+ 	<li>Must have satisfactory participation and attendance in Kappa League meetings, activities, and events</li>
+ 	<li>Must participate in Kappa League community service projects</li>
+ 	<li>Must be committed to the task of ACHIEVEMENT</li>
+ 	<li>Must pay yearly membership dues</li>
+</ol>
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="50px|||" custom_margin_last_edited="on|phone" custom_margin_phone="30px|||"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2 style="text-align: center;"><strong>SCHOLARSHIP</strong></h2>
+The Alabaster – Pelham Alumni Chapter of Kappa Alpha Psi, Inc. is proud to sponsor several scholarships to deserving youth. To be eligible, students must have a cumulative GPA of 2.5 or higher and must be enrolled in the Greater Birmingham-Hoover Metropolitan Area school system, including area parochial and private institutions. The scholarship is for use during the Fall Semester of the year awarded. The funds will be provided to the student once enrollment (full-time) has been verified for the semester.
+
+All scholarship applications are due by May 1st, 2018.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="30px|||"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2407</wp:post_id>
@@ -7449,12 +7721,21 @@ As a new WordPress user, you should go to <a href="http://iklassfoundation.org/w
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=19</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="||94px|" custom_padding_tablet="||60px|" custom_padding_last_edited="on|phone" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cherry_projects_terms admin_label="Projects Terms" term_type="category" listing_layout="grid-layout" load_animation="loading-animation-fade" post_per_page="8" item_margin="50" saved_tabs="all"]
 
 &nbsp;
 
 [/tm_pb_cherry_projects_terms][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ff8ed6" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" module_class="tm_pb_section_custom"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Upholding the Women's Rights Across the Globe" button_url="http://iklassfoundation.org/contacts" url_new_window="off" button_text="CONTACT ME" use_background_color="off" background_color="#0971f2" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_padding="140px||158px|" custom_padding_tablet="100px||100px|" custom_padding_phone="60px||60px|" custom_padding_last_edited="on|desktop" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" header_text_color="#ffffff"]
 <h4 style="text-align: left;"><span style="color: #ffffff;">become a part of the solution</span></h4>
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="Section" fullwidth="off" specialty="off"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" custom_padding="||94px|" custom_padding_tablet="||60px|" custom_padding_last_edited="on|phone" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on"][tm_pb_column type="4_4"][tm_pb_cherry_projects_terms admin_label="Projects Terms" term_type="category" listing_layout="grid-layout" load_animation="loading-animation-fade" post_per_page="8" item_margin="50" saved_tabs="all"]
+
+&nbsp;
+
+[/tm_pb_cherry_projects_terms][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#ff8ed6" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" module_class="tm_pb_section_custom"][tm_pb_row admin_label="Row" make_fullwidth="off" use_custom_width="off" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin_last_edited="on|phone"][tm_pb_column type="4_4"][tm_pb_cta admin_label="Call To Action" title="Upholding the Women's Rights Across the Globe" button_url="http://iklassfoundation.org/contacts" url_new_window="off" button_text="CONTACT ME" use_background_color="off" background_color="#0971f2" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid" custom_padding="140px||158px|" custom_padding_tablet="100px||100px|" custom_padding_phone="60px||60px|" custom_padding_last_edited="on|desktop" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" header_text_color="#ffffff"]
+<h4 style="text-align: left;"><span style="color: #ffffff;">become a part of the solution</span></h4>
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_cta][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
@@ -7581,6 +7862,7 @@ As a new WordPress user, you should go to <a href="http://iklassfoundation.org/w
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=53</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h4>General information</h4>
 Welcome to our Privacy Policy page! When you use our store services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. When you share information with us, we can make our services even better for you. For instance, we can show you more relevant search results and ads, help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. This is important; we hope you will take time to read it carefully. Remember, you can find controls to manage your information and protect your privacy and security. We’ve tried to keep it as simple as possible.
@@ -7595,6 +7877,22 @@ Our store uses the data we collect for three basic purposes: to operate our busi
 <h4>Sharing your information</h4>
 We share your personal data with your consent or as necessary to complete any transaction or provide any service you have requested or authorized. For example, we share your content with third parties when you tell us to do so. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. In addition, we share personal data among our controlled affiliates and subsidiaries. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement. For example, companies we’ve hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data in order to provide those functions. In such cases, these companies must abide by our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets.
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="4_4"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h4>General information</h4>
+Welcome to our Privacy Policy page! When you use our store services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. When you share information with us, we can make our services even better for you. For instance, we can show you more relevant search results and ads, help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. This is important; we hope you will take time to read it carefully. Remember, you can find controls to manage your information and protect your privacy and security. We’ve tried to keep it as simple as possible.
+<h4>Right to access, correct and delete data and to object to data processing</h4>
+Our customers have the right to access, correct and delete personal data relating to them, and to object to the processing of such data, by addressing a written request, at any time. The Company makes every effort to put in place suitable precautions to safeguard the security and privacy of personal data, and to prevent it from being altered, corrupted, destroyed or accessed by unauthorized third parties. However, the Company does not control each and every risk related to the use of the Internet, and therefore warns the Site users of the potential risks involved in the functioning and use of the Internet. The Site may include links to other web sites or other internet sources. As the Company cannot control these web sites and external sources, the Company cannot be held responsible for the provision or display of these web sites and external sources, and may not be held liable for the content, advertising, products, services or any other material available on or from these web sites or external sources.
+<h4>Management of personal data</h4>
+You can view or edit your personal data online for many of our services. You can also make choices about our collection and use of your data. How you can access or control your personal data will depend on which services you use. You can choose whether you wish to receive promotional communications from our store by email, SMS, physical mail, and telephone. If you receive promotional email or SMS messages from us and would like to opt out, you can do so by following the directions in that message. You can also make choices about the receipt of promotional email, telephone calls, and postal mail by visiting and signing into Company Promotional Communications Manager, which allows you to update contact information, manage contact preferences, opt out of email subscriptions, and choose whether to share your contact information with our partners. These choices do not apply to mandatory service communications that are part of certain store services
+<h4>Information we collect</h4>
+Our store collects data to operate effectively and provide you the best experiences with our services. You provide some of this data directly, such as when you create a personal account. We get some of it by recording how you interact with our services by, for example, using technologies like cookies, and receiving error reports or usage data from software running on your device. We also obtain data from third parties (including other companies). For example, we supplement the data we collect by purchasing demographic data from other companies. We also use services from other companies to help us determine a location based on your IP address in order to customize certain services to your location. The data we collect depends on the services and features you use.
+<h4>How we use your information</h4>
+Our store uses the data we collect for three basic purposes: to operate our business and provide (including improving and personalizing) the services we offer, to send communications, including promotional communications, and to display advertising. In carrying out these purposes, we combine data we collect through the various store services you use to give you a more seamless, consistent and personalized experience. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number.
+<h4>Sharing your information</h4>
+We share your personal data with your consent or as necessary to complete any transaction or provide any service you have requested or authorized. For example, we share your content with third parties when you tell us to do so. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. In addition, we share personal data among our controlled affiliates and subsidiaries. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement. For example, companies we’ve hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data in order to provide those functions. In such cases, these companies must abide by our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_text][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="||90px|" custom_margin_tablet="||60px|" custom_margin_phone="||30px|" custom_margin_last_edited="on|phone" /][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
@@ -7743,6 +8041,7 @@ We share your personal data with your consent or as necessary to complete any tr
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=104</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -7753,6 +8052,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[The Trumpland, where offenders of all sorts feel emboldened and empowered, looks to be a bleak place for any rights, and especially to the rights of...]]></excerpt:encoded>
 		<wp:post_id>104</wp:post_id>
@@ -7920,6 +8231,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=107</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -7930,6 +8242,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[So, now as we have Republicans back in power (holding control over everything - from White House and both chambers of the Congress, to...]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
@@ -8097,6 +8421,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=110</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -8107,6 +8432,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[Now, as the Women Marches have passed, we can state that the United States of America have officially never seen a protest so big - 3 million...]]></excerpt:encoded>
 		<wp:post_id>110</wp:post_id>
@@ -8274,6 +8611,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=113</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -8284,6 +8622,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2257 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image2.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[At a first glance, comparing these two vastly different in a socio-economic sense countries may seem absurd. But as soon as we look at the...]]></excerpt:encoded>
 		<wp:post_id>113</wp:post_id>
@@ -8451,6 +8801,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=116</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -8461,6 +8812,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[Just as it is true when we're talking about the Syrian civil war, the situation that the African state of Sudan has been experiencing throughout the...]]></excerpt:encoded>
 		<wp:post_id>116</wp:post_id>
@@ -8628,6 +8991,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=119</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -8638,6 +9002,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[The ongoing Syrian civil war has been raging for more than 5 years by now, so the question of the impact that it did have on the lives and the rights...]]></excerpt:encoded>
 		<wp:post_id>119</wp:post_id>
@@ -8673,6 +9049,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_tm_pb_old_content]]></wp:meta_key>
+<<<<<<< HEAD
 			<wp:meta_value><![CDATA[Newest development in the CA state legislature made it obligatory to add a solar panel or two atop of any newly built building... Though now it concerns the city of San Francisco only...
 <h4>Ask any construction business professional or an architect if they suffer from tantrums when penning their contract drawings, and you are more than likely to hear an enthusiastically frustrated, “YES!”</h4>
 Oh yes, the old 2D contract drawings, also called “plans” or “blueprints” or just “drawings”... They were bulky, hard to read, and difficult to be read through in between the construction site and the office. But even with all of this newfangled 3D modeling and the virtual or augmented reality devices, these blueprints continue to bring the construction industry down!
@@ -8728,6 +9105,63 @@ It becomes pretty much clear that we need to get away from using paper drawings 
  	<li>Using digital drawings viewed on a large display rather than paper will cost $11,060 LESS per year.</li>
  	<li>That is a whopping 90% rate of annual savings!</li>
 </ul>
+=======
+			<wp:meta_value><![CDATA[Newest development in the CA state legislature made it obligatory to add a solar panel or two atop of any newly built building... Though now it concerns the city of San Francisco only...
+<h4>Ask any construction business professional or an architect if they suffer from tantrums when penning their contract drawings, and you are more than likely to hear an enthusiastically frustrated, “YES!”</h4>
+Oh yes, the old 2D contract drawings, also called “plans” or “blueprints” or just “drawings”... They were bulky, hard to read, and difficult to be read through in between the construction site and the office. But even with all of this newfangled 3D modeling and the virtual or augmented reality devices, these blueprints continue to bring the construction industry down!
+
+But actually, there's one quite valid reason that they won’t go away anytime soon. It’s because they are a part of the contract for every entity involved with the project.
+
+As construction professionals, we simply require at least one static version of a document, which clearly outlines our respective scopes of work. Subsequently, newer versions of these contract drawings emerge, as it happens for a majority of projects.
+
+Unsurprisingly, we struggle to keep up with all those full-sized and half-sized sets of paper plans and in keeping them updated accordingly...
+
+ 
+
+<img class="alignnone size-full wp-image-170" src="http://ld-wp.template-help.com/wordpress_62359-sample/wp-content/uploads/2016/06/single_post.jpg" alt="single_post" width="886" height="645" />
+
+To understand how actually deep this issue is, imagine a project engineer who has just received an addendum to initial contract drawings, which replaces 50 of the 500 sheets in the set. Imagine him taking the three bolts out that bind the sheets together and then coping to locate where does exactly each sheet goes, leafing them in one by one, and then dog-earing and marking each outdated sheet as “VOID.” Think about how stupendous and monotonous a task like this is. Now imagine how would you feel if you were the manager of this project, who's paying $50 per hour or more for the work. What’s worse, it's not just a solo set of prints your team needs to update. Can you imagine how many other teams on this project have to do the exact same thing for each change that comes out? This image is not only horrifying; it is costly, frustrating, and very unproductive. What you just pictured is the reality of contract documents. I've learned that the hard way, because I'm a project engineer. So why, with all of the digital drawing solutions available, are we still using paper at all?
+
+The answer is that there are several use cases for viewing and manipulating (marking up) drawings. For example, tablets and smartphones are great for referencing while walking the construction site, while typical PC displays are fine for many tasks involving the drawings. Nevertheless, for some activities, such as takeoffs, group discussion, or even “studying the project,” construction professionals tend to prefer a full-scale format, in which we can view larger portions or all of the drawings without excessive zooming in or panning.
+
+Though the tool we now have available are touch-enabled LCD panels, provided by companies such as BoxLight and iPlanTables , which have served as a digital solution for large-sized drawings for several years and are good at what they do. However, to put a 70-100lb, the cart-mounted system in your office or cubicle may require some rearranging or may become impossible. That's why so many constructions and architecture firms purchase just one or two to place in a centralized location in the office if they buy any of these at all.
+
+Resistance to behavioral patterns change is the main reason which attributes to the AEC industry being so slow in adopting to a new and better technology. That's why what may resonate better with people like me is a paper-like experience, flat on your desk or plan table. However, using tried and true paper has its costs on today’s fast-paced construction business.
+
+ 
+
+<img class="alignnone size-full wp-image-171" src="http://ld-wp.template-help.com/wordpress_62359-sample/wp-content/uploads/2016/06/single_post2.jpg" alt="single_post2" width="886" height="645" />
+<h4>So, the real question should actually be, “How much do paper blueprints really cost you?”</h4>
+Statistics show that the price for reworking from poor document control can range anywhere from .12% to .72% of a construction budget.  This equates to roughly $9B annually in the U.S.and times more for construction businesses worldwide...
+
+See below a quick summary of the expenses associated wit employing the old-fashioned paper contract drawings, as well as the expenses cuts that can be easily achieved with switching to a digital format:
+<ul>
+ 	<li>We’ll look at the cost savings for one architect or o construction professional.</li>
+ 	<li>We’ll suppose that he or she is working on an average of 10 projects yearly.</li>
+ 	<li>Assume the average project constitutes 300 drawing sheets for one set, including all revisited versions of it.</li>
+ 	<li>At $2.00 per sheet to print, that is $600/project x 10 projects/yr = $6,000/year on paper for drawings.</li>
+ 	<li>Assume an upheld rate of $63/hr for the professional’s time.</li>
+ 	<li>Assume the professional spends couple of hours per addendum to update a paper set.</li>
+ 	<li>Assume 3 addenda per project.</li>
+ 	<li>That is 30 addenda updates x 2 hrs/update x $63/hr = $3,780/year updating paper drawings.</li>
+ 	<li>We will assume errors (as no one is prone to them completely) and the confusion due to outdated drawings will make you lose an average of 4 hrs per project.</li>
+ 	<li>That is 4 hrs/project x 10 projects/year x $63/hr = $2,520/year on time wasted because of the confusion.</li>
+ 	<li>We will disregard the cost of rework due to outdated drawings, as it may not directly apply to architects, however, this is statistically 0.42% of the construction budget.</li>
+ 	<li>Total cost of paper drawings for one professional is $12,300/year...</li>
+</ul>
+It becomes pretty much clear that we need to get away from using paper drawings and move into digital. But the trick is that those digital solutions don’t always suit us well... Tablets address the usage case of walking the construction site and quickly referencing parts of the drawings, but they are just too small, as are desktop displays. Especially for those who employ use cases such as quantity takeoffs, project review sessions, or just learning the project. Those big touch screen LCD panels are awesome at addressing the usage issues, but they are too large, sit on a rolling cart, are not very portable, and they take up a lot of room. Many industry pros simply cannot use them for routine daily tasks because they can’t fit them into their office or cubicle. So there seems to be a gap in the technology for the everyday personal workspace usage. If compared that way, conventional drawing win the upper hand... One method to fill in that gap is by using a new mix of today's technologies, bundled into a product called PaperLight, a projected interactive display. That device is portable, lightweight, and lays flat on your existing desk or plan table without an office renovation. It’s basically a pico projector mounted on a stand that projects onto an interactive whiteboard surface, giving you an iPad-like experience, flat on your desk or plan table.
+
+ 
+<h4>How much money can you save by going full digital with a large display?</h4>
+<ul>
+ 	<li>Keep in mind, that $12,300 cost of paper per year is crucial in such calculations.</li>
+ 	<li>Assume a 5-year useful life of PaperLight, and a cost of $5,000 per unit.</li>
+ 	<li>Also let's assume straight line depreciation of $1,000 / year for PaperLight.</li>
+ 	<li>Assume a cost of $20/month for a drawing management apps = $240 / year for the apps.</li>
+ 	<li>Using digital drawings viewed on a large display rather than paper will cost $11,060 LESS per year.</li>
+ 	<li>That is a whopping 90% rate of annual savings!</li>
+</ul>
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 And the sweetest thing is that construction professionals like me aren’t the only ones to win by embracing this technology. Architects are stating usage cases involving the combination of PaperLight with their trusty old tracing paper, as well as for viewing and working with 3D BIM models, schedules, and anything else they or their clients would like to do on a large interactive screen. To us at Builderry, the decision seems obvious!]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8860,6 +9294,7 @@ And the sweetest thing is that construction professionals like me aren’t the o
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?page_id=122</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
 <h2>Typography</h2>
 <h1>H1 Heading</h1>
@@ -8925,6 +9360,73 @@ The United States Constitution does state that it guarantees equal rights and pr
 <h2>Large image</h2>
 The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that! For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men. We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
 
+=======
+		<content:encoded><![CDATA[[tm_pb_section admin_label="section"][tm_pb_row admin_label="row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Typography</h2>
+<h1>H1 Heading</h1>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+<h2>H2 Heading</h2>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+<h3>H3 Heading</h3>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+<h4>H4 Heading</h4>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+<h5>H5 Heading</h5>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+<h6>H6 Heading</h6>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that!
+
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Unordered list</h2>
+<ul>
+ 	<li>Equal Pay Program</li>
+ 	<li>Reproductive Rights</li>
+ 	<li>50/50 Congress Goal</li>
+ 	<li>Educational Programs</li>
+</ul>
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Ordered list</h2>
+<ol>
+ 	<li>Career Opportunities</li>
+ 	<li>Educational Programs</li>
+ 	<li>50/50 Congress Goal</li>
+ 	<li>Reproductive Rights</li>
+</ol>
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Some other styles</h2>
+<span style="color: #1d1d1d;"><strong>Bold Text:</strong> <strong>Whether you found me on YouTube</strong></span>
+
+<span style="color: #1d1d1d;"><strong>Strike-through:</strong> <del>Whether you found me on YouTube</del></span>
+
+<span style="color: #1d1d1d;"><strong>Link:</strong> </span><a href="#">Whether you found me on YouTube</a>
+
+<span style="color: #1d1d1d;"><strong>Inline Code</strong>:  <code>Whether you found me on YouTube</code></span>
+<h2></h2>
+[/tm_pb_text][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Blockquotes</h2>
+<blockquote>
+<h4><q>We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.</q></h4>
+<h6><cite>Jhon Woo</cite></h6>
+</blockquote>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Centre aligned image</h2>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that! For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men. We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
+
+[/tm_pb_text][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image27.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="center" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Left aligned image</h2>
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image23.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="right" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||20px|"] [/tm_pb_image][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that! For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men. We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
+
+[/tm_pb_text][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_2"][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Right aligned image</h2>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that! For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men. We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
+
+[/tm_pb_text][/tm_pb_column][tm_pb_column type="1_2"][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image25.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="4_4"][tm_pb_divider admin_label="Divider" color="#e5e5e5" show_divider="on" divider_style="solid" custom_margin="90px||90px|" custom_margin_tablet="20px||20px|" custom_margin_last_edited="on|desktop"] [/tm_pb_divider][tm_pb_text admin_label="Text" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Large image</h2>
+The United States Constitution does state that it guarantees equal rights and prohibits any kind of discrimination in this country, for any citizen, male or female. Still, these days, in 2017, female workers earn, based on different estimations, from 75 to 92 cents on every dollar that a male employee earns. We are determined to fight that! For centuries and even for the most recent decades, the women's reproductive rights were treated unequally as opposed to those of the men. We are determined to do whatever it takes to uphold the progress on this issue that the Roe V. Wade Supreme Court's ruling have made years ago.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 [/tm_pb_text][tm_pb_image admin_label="Image" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image6.jpg" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"] [/tm_pb_image][tm_pb_divider admin_label="Divider" color="#ffffff" show_divider="off" divider_style="solid" custom_margin="92px|||" custom_margin_tablet="50px|||" custom_margin_phone="20px|||" custom_margin_last_edited="on|phone"] [/tm_pb_divider][/tm_pb_column][/tm_pb_row][/tm_pb_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>122</wp:post_id>
@@ -9051,6 +9553,7 @@ The United States Constitution does state that it guarantees equal rights and pr
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=210</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[gallery ids="2257,2259,2260,2261"]
 
 Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
@@ -9063,6 +9566,20 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[[gallery ids="2257,2259,2260,2261"]
+
+Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>210</wp:post_id>
@@ -9218,6 +9735,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=215</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -9230,6 +9748,20 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<a href="http://zemez.io">zemez.io</a>
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
@@ -9397,6 +9929,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=219</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[https://www.youtube.com/watch?v=No9rOsjEIFE
 
 Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
@@ -9409,6 +9942,20 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[https://www.youtube.com/watch?v=No9rOsjEIFE
+
+Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>219</wp:post_id>
@@ -9612,6 +10159,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=224</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[<blockquote>"Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!"</blockquote>
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
 
@@ -9621,6 +10169,17 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[<blockquote>"Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!"</blockquote>
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[The UI/UX options for those micro-interactions are truly unlimited. This means, that this kind of cute on-screen animations, which usually are used to show how one state of some site's element changes to another are here to stay. However, when colleagues...]]></excerpt:encoded>
 		<wp:post_id>224</wp:post_id>
@@ -9780,6 +10339,7 @@ In the modern days of a very tight online business competition, ranking high in 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=227</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[[audio mp3="http://iklassfoundation.org/wp-content/uploads/2016/06/sound1.mp3"][/audio]
 
 Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
@@ -9792,6 +10352,20 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[[audio mp3="http://iklassfoundation.org/wp-content/uploads/2016/06/sound1.mp3"][/audio]
+
+Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[The so-called "vox cards" are a thing, and not just for some recipe blogs or even some movie databases. This kind of a visualization gained traction couple of years ago, though it did not yet reach its full potential yet. However, as a practicing designer, I can tell that...]]></excerpt:encoded>
 		<wp:post_id>227</wp:post_id>
@@ -9958,6 +10532,7 @@ audio/mpeg
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?p=811</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
 
 When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
@@ -9968,6 +10543,18 @@ These are: Design or Visual Looks; Functionality; Easy Installation and Administ
 <blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
 Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
 
+=======
+		<content:encoded><![CDATA[Choosing a fitting website template is probably the most responsible e-business task of them all…But cheer up, as we’ve prepared a lot of useful tips on this matter for you!
+
+When you need your company to have a new website or if you venture on updating your old webpage with a new look and functionality, the choices are versatile… Assuming that you will go the easy way and choose a theme for your Wordpress website, the overall number of characteristics that you will need to keep in mind narrows down significantly. But how do you stay focused on what kind of a template you need and what do you want to get from that template? We recommend focusing on 4 most essential characteristics, each vital for your company’s to have an efficient and long-standing online presence!
+
+<img class="alignnone wp-image-2243 size-full" src="http://iklassfoundation.org/wp-content/uploads/2016/06/image1.jpg" width="1280" height="609" />
+
+These are: Design or Visual Looks; Functionality; Easy Installation and Administering &amp; Google-friendliness. All the Wordpress themes that we have here have had a vast team of professional designers sketching, working and executing the ultimate visual look for it.  With such a wide range of choices at hand, we strongly advise you to stick to the Wordpress Theme that is based on your business’ or a closely related field. Either way, thanks to all the diversity here you will be able to choose a Theme that can be either of a formal color scheme with some light colors in it or a more vivid one, featuring bold textures and hues!
+<blockquote>“Design &amp; Functionality are the main features to focus on when you are about to choose the permanent look for your website!”</blockquote>
+Each business niche may require a unique functionality of its own… With that notion in mind, our team of professional Wordpress coders has been working day and night to roll out a definitive collection of built-in Wordpress plugins, that come with each of our Wordpress themes… Due to the fact that this is a Wordpress theme, the process of installing it and using it is truly as easy as it gets! Read our documentation to understand how fast you can go from purchasing a TemplateMonster Wordpress theme to actually using it as a live skin for your company’s webpage. Also, the Wordpress CMS (Content Management System) allows you to easily change the content (text; multimedia; blocks; pages) of any part of your new theme!
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 In the modern days of a very tight online business competition, ranking high in such search engines as Google, Bing or Yahoo is critical.  With the help of our heavy customizations, each of our Business Wordpress Themes is enhanced with optimized features. Believe us, Google will just love crawling your new website! All in all, feel free to browse our Business Wordpress Themes category and you will definitely find a new look for your company’s website!]]></content:encoded>
 		<excerpt:encoded><![CDATA[As the range of services that provide a lot of new (and old) fonts to web developers and designers expands every month, the typography is just as important as ever. This means, that while designers have always put some extra emphasis on fonts, now...]]></excerpt:encoded>
 		<wp:post_id>811</wp:post_id>
@@ -10340,8 +10927,13 @@ This e-mail was sent from a contact form on iklass (http://iklassfoundation.org)
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=388</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>388</wp:post_id>
@@ -10439,8 +11031,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=393</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>393</wp:post_id>
@@ -10536,8 +11133,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=395</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>395</wp:post_id>
@@ -10634,8 +11236,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=397</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>397</wp:post_id>
@@ -10731,8 +11338,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=399</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>399</wp:post_id>
@@ -10833,8 +11445,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=401</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>401</wp:post_id>
@@ -10930,8 +11547,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=403</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>403</wp:post_id>
@@ -11027,8 +11649,13 @@ The facts will tell us, that currently just under 25% of the Congress representa
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_62359-sample/?post_type=projects&#038;p=405</guid>
 		<description></description>
+<<<<<<< HEAD
 		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
 
+=======
+		<content:encoded><![CDATA[When we are talking about the Congressional representation that women do have in this country, the words are not enough.
+
+>>>>>>> 4dc75871b3082cf0fd889602012e626efdc5877b
 The facts will tell us, that currently just under 25% of the Congress representatives and senators are female, all the while the percentage of women among the US citizens is the plurality - standing at a high mark of 52% of all the population.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>405</wp:post_id>
